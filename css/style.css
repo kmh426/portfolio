@@ -2393,7 +2393,7 @@ address{
   }
   .headContent {
     max-height: 150px;
-    width: 1000px;
+    width: 100%;
     margin: 0 auto;
     overflow-x: hidden;
   }
@@ -2492,7 +2492,7 @@ address{
   }
   .headContent{
     max-height: 130px;
-    width: 1000px;
+    width: 100%;
     margin: 0 auto;
     overflow-x: hidden;
   }
