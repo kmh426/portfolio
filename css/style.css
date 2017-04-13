@@ -2393,7 +2393,9 @@ address{
   }
   .headContent {
       max-height: 150px;
-      max-width: 360px;
+      /*max-width: 360px;*/
+      padding-right: 10px;
+      margin: 0 auto;
   }
 
 }
