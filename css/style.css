@@ -2394,7 +2394,9 @@ address{
   .headContent {
       max-height: 150px;
       /*max-width: 360px;*/
-      padding-right: 20px;
+      /*padding-right: 20px;
+      padding-left: 20px;*/
+      margin: 0 auto;
   }
 
 }
