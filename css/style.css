@@ -2394,7 +2394,8 @@ address{
   .headContent {
       max-height: 150px;
       max-width: 100%;
-      overflow: hidden;
+      width: auto !important;
+      overflow-x: hidden !important;
   }
 
 }
@@ -2491,8 +2492,8 @@ address{
   }
   .headContent{
   max-height: 130px;
-  width: 100%;
-  overflow: hidden;
+  width: auto !important;
+  overflow-x: hidden !important;
   }
   .menu{
   margin:10px 30px;
