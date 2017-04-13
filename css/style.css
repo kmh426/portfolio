@@ -2490,7 +2490,7 @@ address{
   }
   .headContent{
   max-height: 130px;
-  max-width: 280px;
+  /*max-width: 280px;*/
   }
   .menu{
   margin:10px 30px;
