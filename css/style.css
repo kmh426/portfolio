@@ -2389,13 +2389,13 @@ address{
     text-align: center;
   }
   .menu {
-      margin: 0 60px;
+    margin: 0 60px;
   }
   .headContent {
-      max-height: 150px;
-      max-width: 100%;
-      width: auto !important;
-      overflow-x: hidden !important;
+    max-height: 150px;
+    width: 1000px;
+    margin: 0 auto;
+    overflow-x: hidden;
   }
 
 }
@@ -2488,12 +2488,13 @@ address{
     margin: 10px auto -10px;
   }
   .topHead, .tp-leftarrow.default, .tp-rightarrow.default{
-  display: none;
+    display: none;
   }
   .headContent{
-  max-height: 130px;
-  width: auto !important;
-  overflow-x: hidden !important;
+    max-height: 130px;
+    width: 1000px;
+    margin: 0 auto;
+    overflow-x: hidden;
   }
   .menu{
   margin:10px 30px;
