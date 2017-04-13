@@ -29,12 +29,13 @@
 </head>
 
 <script>
-$(window).load(function(){
-	var $container = $(‘#list');
-	// initialize
-	$container.masonry({
-		itemSelector: '.isotope-item'
-	});
+// init Isotope
+var $grid = $('.item').isotope({
+  // options...
+});
+// layout Isotope after each image loads
+$grid.imagesLoaded().progress( function() {
+  $grid.isotope('layout');
 });
 </script>
 
