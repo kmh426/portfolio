@@ -29,11 +29,13 @@
 </head>
 
 <script>
-var $grid = $('.item').imagesLoaded( function() {
-  // init Isotope after all images have loaded
-  $grid.isotope({
-    // options...
-  });
+// init Isotope
+var $grid = $('.list').isotope({
+  // options...
+});
+// layout Isotope after each image loads
+$grid.imagesLoaded().progress( function() {
+  $grid.isotope('layout');
 });
 </script>
 
