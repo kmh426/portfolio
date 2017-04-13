@@ -2395,7 +2395,6 @@ address{
       max-height: 150px;
       /*max-width: 360px;*/
       padding-right: 5px;
-      margin: 0 auto;
   }
 
 }
@@ -2494,7 +2493,6 @@ address{
   max-height: 130px;
   /*max-width: 280px;*/
   padding-right: 5px;
-  margin: 0 auto;
   }
   .menu{
   margin:10px 30px;
