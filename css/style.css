@@ -2393,10 +2393,7 @@ address{
   }
   .headContent {
       max-height: 150px;
-      /*max-width: 360px;*/
-      /*padding-right: 20px;
-      padding-left: 20px;*/
-      margin: 0 auto;
+      max-width: 360px;
   }
 
 }
@@ -2493,8 +2490,7 @@ address{
   }
   .headContent{
   max-height: 130px;
-  /*max-width: 280px;*/
-  margin: 0 auto;
+  max-width: 280px;
   }
   .menu{
   margin:10px 30px;
