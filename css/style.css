@@ -2101,7 +2101,7 @@ address{
   }
   .mTop{
     height: auto;
-    width: 100%;
+    width: cal(100%-40px);
     margin: 0 auto;
     overflow: hidden;
   }
