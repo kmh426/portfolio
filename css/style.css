@@ -68,7 +68,7 @@
     position: relative;
     z-index: 9999;
     display: inline-block;
-    /*width: 100%;*/
+    width: 100%;
 }
   
 /* -------------------------------------------------------------------------------- /
@@ -2101,9 +2101,6 @@ address{
   }
   .mTop{
     height: auto;
-    width: cal(100%-40px);
-    margin: 0 auto;
-    overflow: hidden;
   }
   .home_title h1{
     font-size: 70px;
@@ -2396,6 +2393,9 @@ address{
   }
   .headContent {
     max-height: 150px;
+    width: 100%;
+    margin: 0 auto;
+    overflow: hidden;
   }
 
 }
@@ -2418,7 +2418,7 @@ address{
   }
   .headContent {
     max-height: 150px;
-    /*width: 320px;*/
+    width: 320px;
   }
   .fullwidthbanner-container{
       height: 160px;
@@ -2492,6 +2492,9 @@ address{
   }
   .headContent{
     max-height: 130px;
+    width: 100%;
+    margin: 0 auto;
+    overflow: hidden;
   }
   .menu{
   margin:10px 30px;
