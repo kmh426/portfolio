@@ -2101,6 +2101,9 @@ address{
   }
   .mTop{
     height: auto;
+    width: 100%;
+    margin: 0 auto;
+    overflow: hidden;
   }
   .home_title h1{
     font-size: 70px;
@@ -2393,9 +2396,6 @@ address{
   }
   .headContent {
     max-height: 150px;
-    width: 100%;
-    margin: 0 auto;
-    overflow-x: hidden;
   }
 
 }
@@ -2492,9 +2492,6 @@ address{
   }
   .headContent{
     max-height: 130px;
-    width: 100%;
-    margin: 0 auto;
-    overflow-x: hidden;
   }
   .menu{
   margin:10px 30px;
