@@ -68,7 +68,7 @@
     position: relative;
     z-index: 9999;
     display: inline-block;
-    width: 100%;
+    /*width: 100%;*/
 }
   
 /* -------------------------------------------------------------------------------- /
@@ -2075,7 +2075,7 @@ address{
     display: none;
   }
   .sticky-wrapper.is-sticky .headContent {
-      width: 93.7%;
+      /*width: 93.7%;*/
   }
   .isotope ul{
     margin: 0;
@@ -2235,7 +2235,7 @@ address{
   }
   .headContent{
     max-height: 150px;
-    max-width: 440px;
+    /*max-width: 440px;*/
   }
   .menu{
     margin:27px auto 0;
