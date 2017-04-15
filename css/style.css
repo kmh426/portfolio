@@ -2235,7 +2235,7 @@ address{
   }
   .headContent{
     max-height: 150px;
-    /*max-width: 440px;*/
+    max-width: 440px;
   }
   .menu{
     margin:27px auto 0;
@@ -2418,7 +2418,7 @@ address{
   }
   .headContent {
     max-height: 150px;
-    width: 320px;
+    /*width: 320px;*/
   }
   .fullwidthbanner-container{
       height: 160px;
