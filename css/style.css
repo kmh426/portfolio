@@ -2418,7 +2418,7 @@ address{
   }
   .headContent {
     max-height: 150px;
-    /*width: 320px;*/
+    width: 320px;
   }
   .fullwidthbanner-container{
       height: 160px;
