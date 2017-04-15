@@ -2075,7 +2075,7 @@ address{
     display: none;
   }
   .sticky-wrapper.is-sticky .headContent {
-      /*width: 93.7%;*/
+      width: 93.7%;
   }
   .isotope ul{
     margin: 0;
@@ -2235,10 +2235,10 @@ address{
   }
   .headContent{
     max-height: 150px;
-    /*max-width: 440px;*/
+    max-width: 440px;
   }
   .menu{
-    margin:27px auto;
+    margin:27px auto 0;
     padding: 10px 0;
   }
   li.backLava,li.backLava:before {
@@ -2392,7 +2392,7 @@ address{
     text-align: center;
   }
   .menu {
-    margin:0px;
+    margin: 0 60px;
   }
   .headContent {
     max-height: 150px;
@@ -2414,11 +2414,11 @@ address{
     margin: 10px auto 0;
   }
   .menu {
-    margin: 10px 0;
+    margin: 10px 45px 0;
   }
   .headContent {
     max-height: 150px;
-    width: 320px;
+    /*width: 320px;*/
   }
   .fullwidthbanner-container{
       height: 160px;
