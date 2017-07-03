@@ -164,7 +164,7 @@ $(document).ready(function($) {
 		});*/
 
 	/* ---- Filtering ----- */
-		/*jQuery('#filter li').click(function(){
+		jQuery('#filter li').click(function(){
 			var $this = jQuery(this);
 			if ( $this.hasClass('selected') ) {
 				return false;
@@ -176,7 +176,7 @@ $(document).ready(function($) {
 					return false;
 				}
 		});	
-	}*/
+	}
 
 
 
