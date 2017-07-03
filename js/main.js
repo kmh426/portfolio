@@ -156,12 +156,12 @@ $(document).ready(function($) {
 	/*===========================================================*/
 	/*	Isotope Posrtfolio
 	/*===========================================================*/	
-	/*if(jQuery.isFunction(jQuery.fn.isotope)){
+	if(jQuery.isFunction(jQuery.fn.isotope)){
 		jQuery('.portfolio_list').isotope({
 			itemSelector : '.list_item',
 			layoutMode : 'fitRows',
 			animationEngine : 'jquery'
-		});*/
+		});
 
 	/* ---- Filtering ----- */
 		jQuery('#filter li').click(function(){
